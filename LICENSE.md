@@ -1,1 +1,3 @@
 the license of git
+
+Git is a free software...
